@@ -3,13 +3,11 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [The Environmental Product Declaration](#The-Environmental-Product-Declaration)
-3. [Visualize the extracted](#Visualize-the-extracted)
-4. [Clear Summary of the Task](#Clear-Summary-of-the-Task)
-5. [Parameters in Data Extraction](#Parameters-in-Data-Extraction)
-6. [Data Preprocessing](#Data-Preprocessing)
+2. [Clear Summary of the Task](#Clear-Summary-of-the-Task)
+3. [Parameters in Data Extraction](#Parameters-in-Data-Extraction)
+4. [Data Preprocessing](#Data-Preprocessing)
    * [Removing Duplicates](#Removing-Duplicates)
-7. [Data Visualization](#Data-Visualization)
+5. [Data Visualization](#Data-Visualization)
 
 ## Project Overview
 The Environmental Product Declaration (EPD) project aimed to extract valuable information from a dataset containing product descriptions with a focus on environmental impact. Postman was used in scrapping all the existing EPDs valid till 2023, using ECO Platform API. Out of 6820 EPDs valid till 2023, 100 EPDs were randomly selected.
