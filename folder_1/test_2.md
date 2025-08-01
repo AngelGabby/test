@@ -48,6 +48,13 @@ Visualize the extracted information using charts, graphs, and other visualizatio
 ![image](https://github.com/AngelGabby/Data-Extraction-for-Environmental-Product-Declaration/assets/34291140/7c7d244b-35d2-44d9-961b-d9d0fdfaf4d9)
 
 
+<figure>
+  <img src="https://github.com/AngelGabby/Data-Extraction-for-Environmental-Product-Declaration/assets/34291140/7c7d244b-35d2-44d9-961b-d9d0fdfaf4d9" width=100% height=100% alt="alt text">
+  <figcaption>Figure: Number of EPDs and Owners</figcaption>
+</figure>
+<br/><br/>
+
+
 **Functional Unit**
 
 ![:book:](https://github.com/AngelGabby/Data-Extraction-for-Environmental-Product-Declaration/assets/34291140/8420cb2e-d510-4d42-9cce-8dbfbce449ef)
