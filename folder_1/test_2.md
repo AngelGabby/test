@@ -74,6 +74,9 @@ Visualize the extracted information using charts, graphs, and other visualizatio
 
 
 
+### Author
+* [Gabby](https://github.com/AngelGabby)
+* [Silvia](https://github.com/AngelGabby)
 
 
 
